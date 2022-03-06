@@ -1,0 +1,3 @@
+C:\Users\ahmed\Documents\GitHub\CPPCourse\Section7\ChallengeSolution\main.cpp
+C:\Users\ahmed\Documents\GitHub\CPPCourse\Section7\Vectors\main.cpp
+C:\Users\ahmed\Documents\GitHub\CPPCourse\Section7\Arrays\main.cpp

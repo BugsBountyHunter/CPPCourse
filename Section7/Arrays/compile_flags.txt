@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section7\Arrays
+-std=c++17
+-target
+
