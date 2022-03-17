@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section8\02-ArithemeticOperators
+-std=c++17
+-target
+

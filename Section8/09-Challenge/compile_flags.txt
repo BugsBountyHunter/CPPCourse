@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section8\09-Challenge
+-std=c++17
+-target
+

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section8" Database="" Version="10000">
-  <Project Name="AssignmentOperator" Path="AssignmentOperator/AssignmentOperator.project" Active="No"/>
-  <Project Name="ArthemeticOperators" Path="ArthemeticOperators/ArthemeticOperators.project" Active="No"/>
-  <Project Name="EurosProject" Path="EurosProject/EurosProject.project" Active="No"/>
-  <Project Name="IncrementDecrmentOperators" Path="IncrementDecrmentOperators/IncrementDecrmentOperators.project" Active="No"/>
-  <Project Name="MixedExpressions" Path="MixedExpressions/MixedExpressions.project" Active="No"/>
-  <Project Name="EqualityOperators" Path="EqualityOperators/EqualityOperators.project" Active="No"/>
-  <Project Name="RelationalOperators" Path="RelationalOperators/RelationalOperators.project" Active="No"/>
-  <Project Name="LogicalOperators" Path="LogicalOperators/LogicalOperators.project" Active="No"/>
-  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="01-AssignmentOperator" Path="01-AssignmentOperator/01-AssignmentOperator.project" Active="No"/>
+  <Project Name="02-ArithemeticOperators" Path="02-ArithemeticOperators/02-ArithemeticOperators.project" Active="No"/>
+  <Project Name="03-EurosProject" Path="03-EurosProject/03-EurosProject.project" Active="No"/>
+  <Project Name="04-IncrementDecrmentOperators" Path="04-IncrementDecrmentOperators/04-IncrementDecrmentOperators.project" Active="No"/>
+  <Project Name="05-MixedExpressions" Path="05-MixedExpressions/05-MixedExpressions.project" Active="No"/>
+  <Project Name="06-EqualityOperators" Path="06-EqualityOperators/06-EqualityOperators.project" Active="No"/>
+  <Project Name="07-RelationalOperators" Path="07-RelationalOperators/07-RelationalOperators.project" Active="No"/>
+  <Project Name="08-LogicalOperators" Path="08-LogicalOperators/08-LogicalOperators.project" Active="No"/>
+  <Project Name="09-Challenge" Path="09-Challenge/09-Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
-      <Project Name="AssignmentOperator" ConfigName="Debug"/>
+      <Project Name="01-AssignmentOperator" ConfigName="Debug"/>
       <Project Name="ArthemeticOperators" ConfigName="Debug"/>
       <Project Name="EurosProject" ConfigName="Debug"/>
       <Project Name="IncrementDecrmentOperators" ConfigName="Debug"/>
@@ -21,10 +21,29 @@
       <Project Name="RelationalOperators" ConfigName="Debug"/>
       <Project Name="LogicalOperators" ConfigName="Debug"/>
       <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="02-ArthemeticOperators" ConfigName="Debug"/>
+      <Project Name="01-AssignmentOperator" ConfigName="Debug"/>
+      <Project Name="03-EurosProject" ConfigName="Debug"/>
+      <Project Name="04-IncrementDecrmentOperators" ConfigName="Debug"/>
+      <Project Name="05-MixedExpressions" ConfigName="Debug"/>
+      <Project Name="06-EqualityOperators" ConfigName="Debug"/>
+      <Project Name="07-RelationalOperators" ConfigName="Debug"/>
+      <Project Name="08-LogicalOperators" ConfigName="Debug"/>
+      <Project Name="09-Challenge" ConfigName="Debug"/>
+      <Project Name="01-AssignmentOperator" ConfigName="Debug"/>
+      <Project Name="02-ArithemeticOperators" ConfigName="Debug"/>
+      <Project Name="03-EurosProject" ConfigName="Debug"/>
+      <Project Name="04-IncrementDecrmentOperators" ConfigName="Debug"/>
+      <Project Name="05-MixedExpressions" ConfigName="Debug"/>
+      <Project Name="06-EqualityOperators" ConfigName="Debug"/>
+      <Project Name="07-RelationalOperators" ConfigName="Debug"/>
+      <Project Name="08-LogicalOperators" ConfigName="Debug"/>
+      <Project Name="09-Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
-      <Project Name="AssignmentOperator" ConfigName="Release"/>
+      <Project Name="01-AssignmentOperator" ConfigName="Release"/>
       <Project Name="ArthemeticOperators" ConfigName="Release"/>
       <Project Name="EurosProject" ConfigName="Release"/>
       <Project Name="IncrementDecrmentOperators" ConfigName="Release"/>
@@ -33,6 +52,25 @@
       <Project Name="RelationalOperators" ConfigName="Release"/>
       <Project Name="LogicalOperators" ConfigName="Release"/>
       <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="02-ArthemeticOperators" ConfigName="Release"/>
+      <Project Name="01-AssignmentOperator" ConfigName="Release"/>
+      <Project Name="03-EurosProject" ConfigName="Release"/>
+      <Project Name="04-IncrementDecrmentOperators" ConfigName="Release"/>
+      <Project Name="05-MixedExpressions" ConfigName="Release"/>
+      <Project Name="06-EqualityOperators" ConfigName="Release"/>
+      <Project Name="07-RelationalOperators" ConfigName="Release"/>
+      <Project Name="08-LogicalOperators" ConfigName="Release"/>
+      <Project Name="09-Challenge" ConfigName="Release"/>
+      <Project Name="01-AssignmentOperator" ConfigName="Release"/>
+      <Project Name="02-ArithemeticOperators" ConfigName="Release"/>
+      <Project Name="03-EurosProject" ConfigName="Release"/>
+      <Project Name="04-IncrementDecrmentOperators" ConfigName="Release"/>
+      <Project Name="05-MixedExpressions" ConfigName="Release"/>
+      <Project Name="06-EqualityOperators" ConfigName="Release"/>
+      <Project Name="07-RelationalOperators" ConfigName="Release"/>
+      <Project Name="08-LogicalOperators" ConfigName="Release"/>
+      <Project Name="09-Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

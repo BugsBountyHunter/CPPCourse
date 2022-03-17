@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section8\01-AssignmentOperator
+-std=c++17
+-target
+

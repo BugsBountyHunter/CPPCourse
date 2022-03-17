@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section8\05-MixedExpressions
+-std=c++17
+-target
+

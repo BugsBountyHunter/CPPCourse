@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section8\04-IncrementDecrmentOperators
+-std=c++17
+-target
+

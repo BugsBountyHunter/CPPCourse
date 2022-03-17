@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section8\06-EqualityOperators
+-std=c++17
+-target
+

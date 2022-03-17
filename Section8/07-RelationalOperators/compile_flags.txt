@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section8\07-RelationalOperators
+-std=c++17
+-target
+

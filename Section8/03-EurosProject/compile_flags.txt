@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section8\03-EurosProject
+-std=c++17
+-target
+
