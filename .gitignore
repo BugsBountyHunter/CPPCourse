@@ -1,0 +1,9 @@
+
+*.tags
+*.ctagsd
+*.codelite
+*.txt
+*.project
+*.mk
+# folders
+**/Debug/*
