@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section9\08-Looping-ForLoop
+-std=c++17
+-target
+

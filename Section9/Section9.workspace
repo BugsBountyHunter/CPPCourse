@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10000">
+  <Project Name="01-IfStatement" Path="01-IfStatement/01-IfStatement.project" Active="No"/>
+  <Project Name="02-IfElseStatement" Path="02-IfElseStatement/02-IfElseStatement.project" Active="No"/>
+  <Project Name="03-NestedIfStatement-Grades" Path="03-NestedIfStatement-Grades/03-NestedIfStatement-Grades.project" Active="No"/>
+  <Project Name="04-NestedIfStatement-Shipping" Path="04-NestedIfStatement-Shipping/04-NestedIfStatement-Shipping.project" Active="No"/>
+  <Project Name="05-Switch" Path="05-Switch/05-Switch.project" Active="No"/>
+  <Project Name="06-Switch-Enum" Path="06-Switch-Enum/06-Switch-Enum.project" Active="No"/>
+  <Project Name="07-ConditionalOperator" Path="07-ConditionalOperator/07-ConditionalOperator.project" Active="No"/>
+  <Project Name="08-Looping-ForLoop" Path="08-Looping-ForLoop/08-Looping-ForLoop.project" Active="No"/>
+  <Project Name="09-Looping-Range-BasedLoop" Path="09-Looping-Range-BasedLoop/09-Looping-Range-BasedLoop.project" Active="No"/>
+  <Project Name="10-Looping-WhileLoop" Path="10-Looping-WhileLoop/10-Looping-WhileLoop.project" Active="No"/>
+  <Project Name="11-Looping-DoWhileLoop" Path="11-Looping-DoWhileLoop/11-Looping-DoWhileLoop.project" Active="No"/>
+  <Project Name="12-Looping-NestedLoops" Path="12-Looping-NestedLoops/12-Looping-NestedLoops.project" Active="No"/>
+  <Project Name="13-Challenge" Path="13-Challenge/13-Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="01-IfStatement" ConfigName="Debug"/>
+      <Project Name="02-IfElseStatement" ConfigName="Debug"/>
+      <Project Name="03-NestedIfStatement-Grades" ConfigName="Debug"/>
+      <Project Name="04-NestedIfStatement-Shipping" ConfigName="Debug"/>
+      <Project Name="05-Switch" ConfigName="Debug"/>
+      <Project Name="06-Switch-Enum" ConfigName="Debug"/>
+      <Project Name="07-ConditionalOperator" ConfigName="Debug"/>
+      <Project Name="08-Looping-ForLoop" ConfigName="Debug"/>
+      <Project Name="09-Looping-Range-BasedLoop" ConfigName="Debug"/>
+      <Project Name="10-Looping-WhileLoop" ConfigName="Debug"/>
+      <Project Name="11-Looping-DoWhileLoop" ConfigName="Debug"/>
+      <Project Name="12-Looping-NestedLoops" ConfigName="Debug"/>
+      <Project Name="13-Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="01-IfStatement" ConfigName="Release"/>
+      <Project Name="02-IfElseStatement" ConfigName="Release"/>
+      <Project Name="03-NestedIfStatement-Grades" ConfigName="Release"/>
+      <Project Name="04-NestedIfStatement-Shipping" ConfigName="Release"/>
+      <Project Name="05-Switch" ConfigName="Release"/>
+      <Project Name="06-Switch-Enum" ConfigName="Release"/>
+      <Project Name="07-ConditionalOperator" ConfigName="Release"/>
+      <Project Name="08-Looping-ForLoop" ConfigName="Release"/>
+      <Project Name="09-Looping-Range-BasedLoop" ConfigName="Release"/>
+      <Project Name="10-Looping-WhileLoop" ConfigName="Release"/>
+      <Project Name="11-Looping-DoWhileLoop" ConfigName="Release"/>
+      <Project Name="12-Looping-NestedLoops" ConfigName="Release"/>
+      <Project Name="13-Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

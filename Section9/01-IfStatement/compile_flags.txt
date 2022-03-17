@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section9\01-IfStatement
+-std=c++17
+-target
+

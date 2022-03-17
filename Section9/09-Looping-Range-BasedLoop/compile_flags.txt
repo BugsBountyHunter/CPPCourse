@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section9\09-Looping-Range-BasedLoop
+-std=c++17
+-target
+

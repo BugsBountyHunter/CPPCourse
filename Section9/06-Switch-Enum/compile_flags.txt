@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section9\06-Switch-Enum
+-std=c++17
+-target
+

@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section9\03-NestedIfStatement-Grades
+-std=c++17
+-target
+
