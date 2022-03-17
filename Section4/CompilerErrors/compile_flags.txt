@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section4\CompilerErrors
+-std=c++14
+-target
+x86_64-w64-mingw32
