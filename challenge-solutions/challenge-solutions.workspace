@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="challenge-solutions" Database="" Version="10000">
+  <Project Name="04-Section4-Getting-Started" Path="04-Section4-Getting-Started/04-Section4-Getting-Started.project" Active="No"/>
+  <Project Name="06-Section6-Variables-and-Constants" Path="06-Section6-Variables-and-Constants/06-Section6-Variables-and-Constants.project" Active="No"/>
+  <Project Name="07-Section7-Arrays-and-Vectors" Path="07-Section7-Arrays-and-Vectors/07-Section7-Arrays-and-Vectors.project" Active="No"/>
+  <Project Name="08-Section8-Statements-and-Operators" Path="08-Section8-Statements-and-Operators/08-Section8-Statements-and-Operators.project" Active="Yes"/>
+  <Project Name="09-Section9-Controlling-Program-Flow" Path="09-Section9-Controlling-Program-Flow/09-Section9-Controlling-Program-Flow.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="04-Section4-Getting-Started" ConfigName="Debug"/>
+      <Project Name="06-Section6-Variables-and-Constants" ConfigName="Debug"/>
+      <Project Name="07-Section7-Arrays-and-Vectors" ConfigName="Debug"/>
+      <Project Name="08-Section8-Statements-and-Operators" ConfigName="Debug"/>
+      <Project Name="09-Section9-Controlling-Program-Flow" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="04-Section4-Getting-Started" ConfigName="Release"/>
+      <Project Name="06-Section6-Variables-and-Constants" ConfigName="Release"/>
+      <Project Name="07-Section7-Arrays-and-Vectors" ConfigName="Release"/>
+      <Project Name="08-Section8-Statements-and-Operators" ConfigName="Release"/>
+      <Project Name="09-Section9-Controlling-Program-Flow" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

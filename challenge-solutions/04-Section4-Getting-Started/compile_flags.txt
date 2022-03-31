@@ -1,0 +1,4 @@
+-IC:\Users\GeniusPC\Documents\GitHub\CPPCourse\challenge-solutions\04-Section4-Getting-Started
+-std=c++17
+-target
+
