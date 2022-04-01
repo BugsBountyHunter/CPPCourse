@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section11" Database="" Version="10000">
+  <Project Name="01-Math" Path="01-Math/01-Math.project" Active="No"/>
+  <Project Name="02-Random" Path="02-Random/02-Random.project" Active="No"/>
+  <Project Name="03-FunctionDefinitions" Path="03-FunctionDefinitions/03-FunctionDefinitions.project" Active="No"/>
+  <Project Name="04-FunctionPrototypes" Path="04-FunctionPrototypes/04-FunctionPrototypes.project" Active="No"/>
+  <Project Name="05-FunctionParameters" Path="05-FunctionParameters/05-FunctionParameters.project" Active="No"/>
+  <Project Name="06-DefaultArguments" Path="06-DefaultArguments/06-DefaultArguments.project" Active="No"/>
+  <Project Name="07-FunctionOverloading" Path="07-FunctionOverloading/07-FunctionOverloading.project" Active="No"/>
+  <Project Name="08-ArraysAndFunctions" Path="08-ArraysAndFunctions/08-ArraysAndFunctions.project" Active="No"/>
+  <Project Name="09-PassByReference" Path="09-PassByReference/09-PassByReference.project" Active="No"/>
+  <Project Name="10-ScopeExample" Path="10-ScopeExample/10-ScopeExample.project" Active="No"/>
+  <Project Name="11-HowFunctionCallsWork" Path="11-HowFunctionCallsWork/11-HowFunctionCallsWork.project" Active="No"/>
+  <Project Name="12-Fibonacci" Path="12-Fibonacci/12-Fibonacci.project" Active="No"/>
+  <Project Name="13-Factorial" Path="13-Factorial/13-Factorial.project" Active="Yes"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="01-Math" ConfigName="Debug"/>
+      <Project Name="02-Random" ConfigName="Debug"/>
+      <Project Name="03-FunctionDefinitions" ConfigName="Debug"/>
+      <Project Name="04-FunctionPrototypes" ConfigName="Debug"/>
+      <Project Name="05-FunctionParameters" ConfigName="Debug"/>
+      <Project Name="06-DefaultArguments" ConfigName="Debug"/>
+      <Project Name="07-FunctionOverloading" ConfigName="Debug"/>
+      <Project Name="08-ArraysAndFunctions" ConfigName="Debug"/>
+      <Project Name="09-PassByReference" ConfigName="Debug"/>
+      <Project Name="10-ScopeExample" ConfigName="Debug"/>
+      <Project Name="11-HowFunctionCallsWork" ConfigName="Debug"/>
+      <Project Name="12-Fibonacci" ConfigName="Debug"/>
+      <Project Name="13-Factorial" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="01-Math" ConfigName="Release"/>
+      <Project Name="02-Random" ConfigName="Release"/>
+      <Project Name="03-FunctionDefinitions" ConfigName="Release"/>
+      <Project Name="04-FunctionPrototypes" ConfigName="Release"/>
+      <Project Name="05-FunctionParameters" ConfigName="Release"/>
+      <Project Name="06-DefaultArguments" ConfigName="Release"/>
+      <Project Name="07-FunctionOverloading" ConfigName="Release"/>
+      <Project Name="08-ArraysAndFunctions" ConfigName="Release"/>
+      <Project Name="09-PassByReference" ConfigName="Release"/>
+      <Project Name="10-ScopeExample" ConfigName="Release"/>
+      <Project Name="11-HowFunctionCallsWork" ConfigName="Release"/>
+      <Project Name="12-Fibonacci" ConfigName="Release"/>
+      <Project Name="13-Factorial" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
