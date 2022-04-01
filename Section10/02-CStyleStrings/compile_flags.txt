@@ -1,0 +1,4 @@
+-IC:\Users\GeniusPC\Documents\GitHub\CPPCourse\Section10\02-CStyleStrings
+-std=c++17
+-target
+

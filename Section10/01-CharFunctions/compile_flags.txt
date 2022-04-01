@@ -1,0 +1,4 @@
+-IC:\Users\GeniusPC\Documents\GitHub\CPPCourse\Section10\01-CharFunctions
+-std=c++17
+-target
+
