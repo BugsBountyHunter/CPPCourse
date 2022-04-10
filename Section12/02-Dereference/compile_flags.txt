@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section12\02-Dereference
+-std=c++17
+-target
+

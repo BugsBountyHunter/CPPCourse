@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section12" Database="" Version="10000">
+  <Project Name="01-SimplePointers" Path="01-SimplePointers/01-SimplePointers.project" Active="No"/>
+  <Project Name="02-Dereference" Path="02-Dereference/02-Dereference.project" Active="No"/>
+  <Project Name="03-DynamicMemory" Path="03-DynamicMemory/03-DynamicMemory.project" Active="No"/>
+  <Project Name="04-ArraysAndPointers" Path="04-ArraysAndPointers/04-ArraysAndPointers.project" Active="No"/>
+  <Project Name="05-PointerArithmetic" Path="05-PointerArithmetic/05-PointerArithmetic.project" Active="No"/>
+  <Project Name="06-PassingPointers1" Path="06-PassingPointers1/06-PassingPointers1.project" Active="No"/>
+  <Project Name="07-PassingPointers2" Path="07-PassingPointers2/07-PassingPointers2.project" Active="No"/>
+  <Project Name="08-PassingPointers3" Path="08-PassingPointers3/08-PassingPointers3.project" Active="No"/>
+  <Project Name="09-ReturnPointer" Path="09-ReturnPointer/09-ReturnPointer.project" Active="No"/>
+  <Project Name="10-References" Path="10-References/10-References.project" Active="No"/>
+  <Project Name="11-Debugger" Path="11-Debugger/11-Debugger.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="01-SimplePointers" ConfigName="Debug"/>
+      <Project Name="02-Dereference" ConfigName="Debug"/>
+      <Project Name="03-DynamicMemory" ConfigName="Debug"/>
+      <Project Name="04-ArraysAndPointers" ConfigName="Debug"/>
+      <Project Name="05-PointerArithmetic" ConfigName="Debug"/>
+      <Project Name="06-PassingPointers1" ConfigName="Debug"/>
+      <Project Name="07-PassingPointers2" ConfigName="Debug"/>
+      <Project Name="08-PassingPointers3" ConfigName="Debug"/>
+      <Project Name="09-ReturnPointer" ConfigName="Debug"/>
+      <Project Name="10-References" ConfigName="Debug"/>
+      <Project Name="11-Debugger" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="01-SimplePointers" ConfigName="Release"/>
+      <Project Name="02-Dereference" ConfigName="Release"/>
+      <Project Name="03-DynamicMemory" ConfigName="Release"/>
+      <Project Name="04-ArraysAndPointers" ConfigName="Release"/>
+      <Project Name="05-PointerArithmetic" ConfigName="Release"/>
+      <Project Name="06-PassingPointers1" ConfigName="Release"/>
+      <Project Name="07-PassingPointers2" ConfigName="Release"/>
+      <Project Name="08-PassingPointers3" ConfigName="Release"/>
+      <Project Name="09-ReturnPointer" ConfigName="Release"/>
+      <Project Name="10-References" ConfigName="Release"/>
+      <Project Name="11-Debugger" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

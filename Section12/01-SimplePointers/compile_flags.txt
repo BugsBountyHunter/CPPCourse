@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section12\01-SimplePointers
+-std=c++17
+-target
+

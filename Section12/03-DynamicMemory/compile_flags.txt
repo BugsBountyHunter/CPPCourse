@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section12\03-DynamicMemory
+-std=c++17
+-target
+
