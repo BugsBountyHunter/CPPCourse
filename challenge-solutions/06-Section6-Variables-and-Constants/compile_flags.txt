@@ -1,4 +1,4 @@
--IC:\Users\GeniusPC\Documents\GitHub\CPPCourse\challenge-solutions\06-Section6-Variables-and-Constants
+-IC:\Users\AhmedSR\Documents\GitHub\CPPCourse\challenge-solutions\06-Section6-Variables-and-Constants
 -std=c++17
 -target
 

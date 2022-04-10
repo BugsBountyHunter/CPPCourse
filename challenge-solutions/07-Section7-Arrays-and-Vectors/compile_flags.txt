@@ -1,0 +1,4 @@
+-IC:\Users\AhmedSR\Documents\GitHub\CPPCourse\challenge-solutions\07-Section7-Arrays-and-Vectors
+-std=c++17
+-target
+

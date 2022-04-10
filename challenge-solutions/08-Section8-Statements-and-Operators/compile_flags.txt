@@ -1,0 +1,4 @@
+-IC:\Users\AhmedSR\Documents\GitHub\CPPCourse\challenge-solutions\08-Section8-Statements-and-Operators
+-std=c++17
+-target
+

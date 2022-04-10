@@ -3,8 +3,10 @@
   <Project Name="04-Section4-Getting-Started" Path="04-Section4-Getting-Started/04-Section4-Getting-Started.project" Active="No"/>
   <Project Name="06-Section6-Variables-and-Constants" Path="06-Section6-Variables-and-Constants/06-Section6-Variables-and-Constants.project" Active="No"/>
   <Project Name="07-Section7-Arrays-and-Vectors" Path="07-Section7-Arrays-and-Vectors/07-Section7-Arrays-and-Vectors.project" Active="No"/>
-  <Project Name="08-Section8-Statements-and-Operators" Path="08-Section8-Statements-and-Operators/08-Section8-Statements-and-Operators.project" Active="Yes"/>
-  <Project Name="09-Section9-Controlling-Program-Flow" Path="09-Section9-Controlling-Program-Flow/09-Section9-Controlling-Program-Flow.project"/>
+  <Project Name="08-Section8-Statements-and-Operators" Path="08-Section8-Statements-and-Operators/08-Section8-Statements-and-Operators.project" Active="No"/>
+  <Project Name="09-Section9-Controlling-Program-Flow" Path="09-Section9-Controlling-Program-Flow/09-Section9-Controlling-Program-Flow.project" Active="No"/>
+  <Project Name="10-Section10-Characters-And-Strings" Path="10-Section10-Characters-And-Strings/10-Section10-Characters-And-Strings.project" Active="No"/>
+  <Project Name="11-Section11-Functions" Path="11-Section11-Functions/11-Section11-Functions.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +15,8 @@
       <Project Name="07-Section7-Arrays-and-Vectors" ConfigName="Debug"/>
       <Project Name="08-Section8-Statements-and-Operators" ConfigName="Debug"/>
       <Project Name="09-Section9-Controlling-Program-Flow" ConfigName="Debug"/>
+      <Project Name="10-Section10-Characters-And-Strings" ConfigName="Debug"/>
+      <Project Name="11-Section11-Functions" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +25,8 @@
       <Project Name="07-Section7-Arrays-and-Vectors" ConfigName="Release"/>
       <Project Name="08-Section8-Statements-and-Operators" ConfigName="Release"/>
       <Project Name="09-Section9-Controlling-Program-Flow" ConfigName="Release"/>
+      <Project Name="10-Section10-Characters-And-Strings" ConfigName="Release"/>
+      <Project Name="11-Section11-Functions" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
