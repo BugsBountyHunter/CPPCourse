@@ -1,0 +1,8 @@
+
+Section19/.codelite/Section19.workspace.frank
+
+*.tags
+*.ctagsd
+*.codelite
+# folders
+**/Debug/*
