@@ -1,4 +1,0 @@
--IC:\Users\ahmed\Documents\GitHub\CPPCourse\Section7\ChallengeSolution
--std=c++17
--target
-
